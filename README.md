@@ -1,6 +1,6 @@
 # DealsScraper
 
-Nintendo Switch USA eshop deals scraper.
+Nintendo Switch USA eshop deals scraper using Selenium and ChromeDriver.
 
 # How to use (out of the box)
 
