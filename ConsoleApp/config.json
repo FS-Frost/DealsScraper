@@ -1,0 +1,10 @@
+{
+    "useRemoteDriver": false,
+    "remoteDriverIp": "http://localhost:9515",
+    "localDriverLocation": null,
+    "runHeadless": false,
+    "loadImages": false,
+    "secondsToWaitForElements": 1,
+    "driverImplicitWait": 10,
+    "driverCache": 4096
+}
