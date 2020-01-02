@@ -23,5 +23,4 @@ Nintendo Switch USA eshop deals scraper using Selenium and ChromeDriver.
 -   On ConsoleApp\config.json, set:
     -   "useRemoteDriver" to "false".
     -   "localDriverLocation" to the driver directory ("null" to use executable directory).
--   Start ChromeDriver.
 -   Run ConsoleApp.exe.
