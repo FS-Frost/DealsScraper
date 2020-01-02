@@ -9,7 +9,7 @@ Nintendo Switch USA eshop deals scraper using Selenium and ChromeDriver.
 -   Edit ConsoleApp\config.json if necessary.
 -   Run ConsoleApp.exe.
 
-# How to use remote driver
+# How to use with remote driver
 
 -   Run ChromeDriver on any server.
 -   On ConsoleApp\config.json, set:
@@ -17,7 +17,7 @@ Nintendo Switch USA eshop deals scraper using Selenium and ChromeDriver.
     -   "useRemoteDriver" to "true".
 -   Run ConsoleApp.exe.
 
-# How use local driver
+# How to use with local driver
 
 -   Install ChromeDriver.
 -   On ConsoleApp\config.json, set:
